@@ -1,0 +1,16 @@
+[package]
+name = "aniri"
+version = "0.0.0"
+authors = ["Dejan Banović <dejanbanovicdev@gmail.com>"]
+edition = "2021"
+description = "Simple framework for building web applications"
+readme = "README.md"
+homepage = "https://aniri.github.io"
+repository = "https://github.com/dejanbanovic/aniri.git"
+license = "MIT"
+keywords = ["web", "webdev"]
+categories = ["web-programming"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
